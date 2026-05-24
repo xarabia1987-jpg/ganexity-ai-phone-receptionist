@@ -1,38 +1,38 @@
-# AI Phone Receptionist for Busy Phone Lines
+﻿# AI Phone Receptionist for Busy Phone Lines AI Backup
 
-Business type: High-call-volume small businesses
+Business type: Busy Phone Lines AI Backup
 Region focus: Spain
 Primary phone problem: Busy lines create lost opportunities when callers cannot reach the business.
 Spanish keywords: líneas ocupadas, busy phone lines, AI phone receptionist Spain
 
 ## Why this business type needs phone backup
 
-When phone lines are occupied, callers may hang up and contact a competitor. Ganexity provides AI phone receptionist backup that captures the reason for calling and creates a structured lead summary for human follow-up.
+High-call-volume small businesses often miss valuable calls during busy hours, lunch breaks, after hours, or peak demand. Ganexity can capture the lead and send a structured summary to the team.
 
 ## Common incoming calls
 
+- missed-call follow-up
 - busy-line enquiries
-- callback requests
-- prices or service questions
-- appointment request intake
-- availability questions
-- after-hours follow-up
+- after-hours call capture
+- basic service questions
+- preferred callback times
+- structured lead capture
 
 ## What the AI receptionist captures
 
 - customer name
 - phone number
 - reason for calling
-- preferred time for callback
+- preferred time for callback or appointment request
 - city, zone, address, or service area when relevant
 - urgency
 - notes for the team
+- missing information that staff may need to ask later
 
 ## What should remain human-approved
 
 - final prices
 - final appointment or booking confirmation
-- stock or availability confirmation
 - payments
 - complaints
 - sensitive cases
@@ -40,8 +40,9 @@ When phone lines are occupied, callers may hang up and contact a competitor. Gan
 
 ## Best use case
 
-Backup when the line is busy, after-hours, during lunch breaks, and during peak demand.
+Backup when the line is busy, after-hours, during lunch breaks, and during peak demand. Ganexity should capture the request and create a clear follow-up task instead of pretending to close the case alone.
 
 ## Output
 
-Clear structured call summary sent to the team.
+Clear structured call summary sent to the team through Google Sheets, CRM, email, WhatsApp notification, Make.com, webhook, or another reliable workflow.
+

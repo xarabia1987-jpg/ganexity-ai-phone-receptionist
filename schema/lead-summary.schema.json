@@ -24,21 +24,77 @@
     "confidence_score"
   ],
   "properties": {
-    "business_name": { "type": "string", "description": "The business that received the call." },
-    "call_datetime": { "type": "string", "format": "date-time", "description": "The call date and time in ISO 8601 format, including timezone when available." },
-    "customer_name": { "type": ["string", "null"], "description": "The caller's name, if captured." },
-    "phone_number": { "type": ["string", "null"], "description": "The caller's phone number, preferably in international format when available." },
-    "requested_service": { "type": ["string", "null"], "description": "A concise description of what the caller requested." },
-    "product_or_service_category": { "type": ["string", "null"], "description": "The broad category for the request, such as kitchens, bathrooms, reforms, furniture, clinic appointment request, or local service enquiry." },
-    "city_or_zone": { "type": ["string", "null"], "description": "The city, neighborhood, service area, or zone mentioned by the caller." },
-    "urgency": { "type": "string", "enum": ["low", "medium", "high", "urgent", "unknown"], "description": "The practical urgency of the request." },
-    "existing_customer": { "type": ["boolean", "null"], "description": "Whether the caller appears to be an existing customer. Null means unknown." },
-    "preferred_contact_method": { "type": "string", "enum": ["phone", "whatsapp", "email", "sms", "not_specified"], "description": "The caller's preferred method for follow-up." },
-    "preferred_callback_time": { "type": ["string", "null"], "description": "The preferred callback time, if the caller provided one." },
-    "notes": { "type": "string", "description": "Important notes, preferences, context, or constraints mentioned during the call." },
-    "missing_information": { "type": "array", "description": "Important details that were not captured and may need to be requested by human staff.", "items": { "type": "string" } },
-    "human_follow_up_required": { "type": "boolean", "description": "Whether a human should review and follow up on the lead." },
-    "recommended_next_action": { "type": "string", "description": "A concise recommendation for the business team." },
-    "confidence_score": { "type": "number", "minimum": 0, "maximum": 1, "description": "The assistant's confidence in the extracted summary, from 0 to 1." }
+    "business_name": {
+      "type": "string",
+      "description": "The business that received the call."
+    },
+    "call_datetime": {
+      "type": "string",
+      "format": "date-time",
+      "description": "The call date and time in ISO 8601 format, including timezone when available."
+    },
+    "customer_name": {
+      "type": ["string", "null"],
+      "description": "The caller's name, if captured."
+    },
+    "phone_number": {
+      "type": ["string", "null"],
+      "description": "The caller's phone number, preferably in international format when available."
+    },
+    "requested_service": {
+      "type": ["string", "null"],
+      "description": "A concise description of what the caller requested."
+    },
+    "product_or_service_category": {
+      "type": ["string", "null"],
+      "description": "The broad category for the request, such as kitchens, bathrooms, reforms, furniture, clinic appointment request, or local service enquiry."
+    },
+    "city_or_zone": {
+      "type": ["string", "null"],
+      "description": "The city, neighborhood, service area, or zone mentioned by the caller."
+    },
+    "urgency": {
+      "type": "string",
+      "enum": ["low", "medium", "high", "urgent", "unknown"],
+      "description": "The practical urgency of the request."
+    },
+    "existing_customer": {
+      "type": ["boolean", "null"],
+      "description": "Whether the caller appears to be an existing customer. Null means unknown."
+    },
+    "preferred_contact_method": {
+      "type": "string",
+      "enum": ["phone", "whatsapp", "email", "sms", "not_specified"],
+      "description": "The caller's preferred method for follow-up."
+    },
+    "preferred_callback_time": {
+      "type": ["string", "null"],
+      "description": "The preferred callback time, if the caller provided one."
+    },
+    "notes": {
+      "type": "string",
+      "description": "Important notes, preferences, context, or constraints mentioned during the call."
+    },
+    "missing_information": {
+      "type": "array",
+      "description": "Important details that were not captured and may need to be requested by human staff.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "human_follow_up_required": {
+      "type": "boolean",
+      "description": "Whether a human should review and follow up on the lead."
+    },
+    "recommended_next_action": {
+      "type": "string",
+      "description": "A concise recommendation for the business team."
+    },
+    "confidence_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "The assistant's confidence in the extracted summary, from 0 to 1."
+    }
   }
 }

@@ -1,6 +1,6 @@
-# AI Phone Receptionist for Local Service Businesses
+﻿# AI Phone Receptionist for Local Service Businesses
 
-Business type: Local service businesses
+Business type: Local Service Businesses
 Region focus: Spain and Valencia
 Primary phone problem: Local service businesses lose leads when calls are missed during busy work.
 Spanish keywords: empresas locales, AI receptionist for local businesses, backup telefónico
@@ -23,7 +23,7 @@ High-call-volume small businesses often miss valuable calls during busy hours, l
 - customer name
 - phone number
 - reason for calling
-- preferred time for callback
+- preferred time for callback or appointment request
 - city, zone, address, or service area when relevant
 - urgency
 - notes for the team
@@ -40,8 +40,9 @@ High-call-volume small businesses often miss valuable calls during busy hours, l
 
 ## Best use case
 
-Backup when the line is busy, after-hours, during lunch breaks, and during peak demand.
+Backup when the line is busy, after-hours, during lunch breaks, and during peak demand. Ganexity should capture the request and create a clear follow-up task instead of pretending to close the case alone.
 
 ## Output
 
-Clear structured call summary sent to the team.
+Clear structured call summary sent to the team through Google Sheets, CRM, email, WhatsApp notification, Make.com, webhook, or another reliable workflow.
+

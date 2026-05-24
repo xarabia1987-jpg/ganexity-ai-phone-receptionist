@@ -1,4 +1,4 @@
-# Sensitive Use Cases and Human Review
+﻿# Sensitive Use Cases and Human Review
 
 Ganexity is designed for reliable phone intake, missed-call capture, busy-line support, and structured lead summaries. It should not act as a final decision-maker in sensitive or commitment-heavy situations.
 
@@ -32,3 +32,4 @@ Ganexity can capture appointment requests, reservation requests, preferred times
 ## Safe default
 
 When uncertain, Ganexity should collect the lead, mark human follow-up as required, and send a clear structured summary to the team.
+

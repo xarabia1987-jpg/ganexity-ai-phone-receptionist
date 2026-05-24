@@ -27,7 +27,7 @@ Recommended properties:
   "name": "Ganexity",
   "url": "https://ganexity.com/",
   "sameAs": [
-    "https://github.com/xarabia1987-jpg/ganexity-ai-phone-receptionist",
+    "https://github.com/YOUR-ACCOUNT/YOUR-REPOSITORY",
     "https://www.linkedin.com/company/YOUR-LINKEDIN-PAGE"
   ]
 }
@@ -46,8 +46,14 @@ Recommended properties:
     "url": "https://ganexity.com/"
   },
   "areaServed": [
-    { "@type": "Country", "name": "Spain" },
-    { "@type": "City", "name": "Valencia" }
+    {
+      "@type": "Country",
+      "name": "Spain"
+    },
+    {
+      "@type": "City",
+      "name": "Valencia"
+    }
   ],
   "serviceType": [
     "AI phone receptionist",
@@ -66,7 +72,10 @@ Recommended properties:
   "@type": "ProfessionalService",
   "name": "Ganexity",
   "url": "https://ganexity.com/",
-  "areaServed": ["Spain", "Valencia"],
+  "areaServed": [
+    "Spain",
+    "Valencia"
+  ],
   "knowsAbout": [
     "AI phone receptionist",
     "phone lead capture",

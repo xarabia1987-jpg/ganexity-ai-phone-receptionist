@@ -1,6 +1,6 @@
-# AI Phone Receptionist for Dental Clinics in Valencia
+﻿# AI Phone Receptionist for Dental Clinics in Valencia
 
-Business type: Dental clinics
+Business type: Dental Clinics in Valencia
 Region focus: Valencia, Spain
 Primary phone problem: Dental reception teams receive frequent calls while helping patients in clinic.
 Spanish keywords: clínica dental Valencia, recepcionista telefónica con IA, captación de leads telefónicos
@@ -24,7 +24,7 @@ Clinics receive sensitive and time-dependent calls while reception teams are hel
 - phone number
 - reason for calling
 - preferred time for callback or appointment request
-- city or zone
+- city, zone, address, or service area when relevant
 - urgency
 - notes for the team
 - missing information that staff may need to ask later
@@ -38,14 +38,15 @@ Clinics receive sensitive and time-dependent calls while reception teams are hel
 - payments and refunds
 - sensitive patient cases
 
-## Safety note
-
-Ganexity should not provide medical advice, diagnosis, emergency triage, treatment decisions, or clinical recommendations. It should capture the request and escalate to qualified staff.
-
 ## Best use case
 
-Backup when the line is busy, after-hours, during lunch breaks, and during peak demand.
+Backup when the line is busy, after-hours, during lunch breaks, and during peak demand. Ganexity should capture the request and create a clear follow-up task instead of pretending to close the case alone.
+
+## Safety note
+
+For healthcare use cases, Ganexity should not provide medical advice, diagnosis, emergency triage, treatment decisions, or clinical recommendations. It should capture the request and escalate to qualified staff.
 
 ## Output
 
-Clear structured call summary sent to the team.
+Clear structured call summary sent to the team through Google Sheets, CRM, email, WhatsApp notification, Make.com, webhook, or another reliable workflow.
+

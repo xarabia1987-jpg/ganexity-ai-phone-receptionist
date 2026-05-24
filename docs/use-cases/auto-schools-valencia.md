@@ -1,6 +1,6 @@
-# AI Phone Receptionist for Auto Schools in Valencia
+﻿# AI Phone Receptionist for Auto Schools in Valencia
 
-Business type: Auto schools / autoescuelas
+Business type: Auto Schools in Valencia
 Region focus: Valencia, Spain
 Primary phone problem: Calls about lessons, license categories, documents, prices, and callback requests.
 Spanish keywords: autoescuela Valencia, recepcionista telefónica con IA, captación de leads telefónicos
@@ -24,7 +24,7 @@ Driving schools receive frequent calls while instructors are in practical lesson
 - phone number
 - reason for calling
 - preferred time for callback or appointment request
-- city or zone
+- city, zone, address, or service area when relevant
 - urgency
 - notes for the team
 - missing information that staff may need to ask later
@@ -40,8 +40,9 @@ Driving schools receive frequent calls while instructors are in practical lesson
 
 ## Best use case
 
-Backup when the line is busy, after-hours, during lunch breaks, and during peak demand.
+Backup when the line is busy, after-hours, during lunch breaks, and during peak demand. Ganexity should capture the request and create a clear follow-up task instead of pretending to close the case alone.
 
 ## Output
 
-Clear structured call summary sent to the team.
+Clear structured call summary sent to the team through Google Sheets, CRM, email, WhatsApp notification, Make.com, webhook, or another reliable workflow.
+

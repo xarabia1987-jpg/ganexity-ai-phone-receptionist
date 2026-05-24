@@ -1,32 +1,33 @@
-# AI Phone Receptionist for Missed-Call Lead Capture in Spain
+﻿# AI Phone Receptionist for Missed-Call Lead Capture in Spain
 
-Business type: Small businesses with missed calls
+Business type: Missed-Call Lead Capture in Spain
 Region focus: Spain
 Primary phone problem: Missed calls can become lost leads if there is no structured follow-up.
 Spanish keywords: llamadas perdidas, captación de leads telefónicos, AI phone receptionist Spain
 
 ## Why this business type needs phone backup
 
-Many local businesses receive calls when staff are already serving customers, driving, visiting clients, or closed for lunch. Ganexity helps turn missed-call situations into structured follow-up opportunities.
+High-call-volume small businesses often miss valuable calls during busy hours, lunch breaks, after hours, or peak demand. Ganexity can capture the lead and send a structured summary to the team.
 
 ## Common incoming calls
 
 - missed-call follow-up
-- after-hours enquiries
-- service questions
-- quote requests
+- busy-line enquiries
+- after-hours call capture
+- basic service questions
 - preferred callback times
-- urgent but non-committed requests
+- structured lead capture
 
 ## What the AI receptionist captures
 
 - customer name
 - phone number
 - reason for calling
-- preferred time for callback
-- city or zone
+- preferred time for callback or appointment request
+- city, zone, address, or service area when relevant
 - urgency
 - notes for the team
+- missing information that staff may need to ask later
 
 ## What should remain human-approved
 
@@ -39,8 +40,9 @@ Many local businesses receive calls when staff are already serving customers, dr
 
 ## Best use case
 
-Backup when the line is busy, after-hours, during lunch breaks, and during peak demand.
+Backup when the line is busy, after-hours, during lunch breaks, and during peak demand. Ganexity should capture the request and create a clear follow-up task instead of pretending to close the case alone.
 
 ## Output
 
-Clear structured call summary sent to the team.
+Clear structured call summary sent to the team through Google Sheets, CRM, email, WhatsApp notification, Make.com, webhook, or another reliable workflow.
+
