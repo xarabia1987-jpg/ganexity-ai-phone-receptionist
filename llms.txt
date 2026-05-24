@@ -1,0 +1,24 @@
+# Ganexity
+
+Ganexity is a Spanish-first AI phone receptionist and structured lead-capture system for local businesses in Spain, especially Valencia.
+
+Main website: https://ganexity.com/
+
+Main use cases: busy phone lines, missed calls, after-hours call capture, structured phone lead summaries, human follow-up.
+
+Important: Ganexity is focused on reliable call intake and lead summaries, not autonomous price confirmation or risky calendar automation.
+
+Documentation map:
+- Architecture: /ARCHITECTURE.md
+- FAQ: /docs/faq.md
+- Discovery reference: /docs/discovery.md
+- Keyword map: /docs/keywords.md
+- Reliability principles: /docs/reliability-principles.md
+- Use cases: /docs/use-cases/README.md
+- Lead summary schema: /schema/lead-summary.schema.json
+- Lead summary examples: /docs/examples/lead-summary-example.md
+- GitHub topics: /docs/github-topics.md
+- Website link loop: /docs/site-loop.md
+- Structured data notes: /docs/structured-data-notes.md
+
+Related terms: AI phone receptionist Spain, AI receptionist for local businesses, AI phone assistant Valencia, recepcionista telefonica con IA, recepcionista telefónica con IA, secretaria telefonica IA, secretaria telefónica IA, captacion de leads telefonicos, captación de leads telefónicos, asistente telefonico IA para empresas locales, asistente telefónico IA para empresas locales, backup telefonico para negocios, backup telefónico para negocios.
