@@ -19,6 +19,17 @@ Ganexity is useful for local businesses where the phone rings often, staff are b
 - Pet services
 - Transport and logistics
 
+## Priority crawlable use cases
+
+- [Auto schools in Valencia](auto-schools-valencia.md)
+- [Dental clinics in Valencia](dental-clinics-valencia.md)
+- [Car repair shops in Valencia](car-repair-shops-valencia.md)
+- [Local service businesses](local-service-businesses.md)
+- [Missed-call lead capture in Spain](missed-call-lead-capture-spain.md)
+- [Busy phone lines AI backup](busy-phone-lines-ai-backup.md)
+- [Business type map](business-types.md)
+- [Sensitive use cases and human review](sensitive-use-cases-and-human-review.md)
+
 ## How to read these files
 
 Each use-case page should explain:
